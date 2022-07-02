@@ -1,2 +1,2 @@
 # breakthrough-wagtail
-a wagtail project
+Un projet wagtail basé sur le cours wagtail for beginners de Kalob Taulien
